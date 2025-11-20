@@ -4,4 +4,4 @@ let num = 100;
 let bool = true;
 let undef = undefined;
 // TODO: Print each one
-
+console.log(text, num, bool, undef);

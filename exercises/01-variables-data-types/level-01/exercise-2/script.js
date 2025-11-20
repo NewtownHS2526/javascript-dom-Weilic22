@@ -3,4 +3,4 @@ let age = 15;
 let city = "New York";
 let isStudent = true ;
 // TODO: Print all three using console.log()
-
+console.log(age, city, isStudent);
