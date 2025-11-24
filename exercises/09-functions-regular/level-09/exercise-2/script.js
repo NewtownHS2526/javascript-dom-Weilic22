@@ -4,3 +4,7 @@
 //     return a + b;
 // }
 
+function add(r, i) {
+    return r + i;
+}
+console.log(add(31, 53));

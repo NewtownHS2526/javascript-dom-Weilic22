@@ -4,3 +4,7 @@
 //     return a + b;
 // }
 
+function add(h, w) {
+    return h + w;
+}
+console.log("Semi-perimeter:", add(10, 5));

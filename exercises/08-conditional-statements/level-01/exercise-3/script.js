@@ -7,4 +7,11 @@
 // } else {
 //     console.log("Senior");
 // }
-
+let age=54;
+if (age <18) {
+    console.log("Minor");
+} else if (age <65){
+    console.log("Adult");
+} else if (age >=65) {
+    console.log("Senior");
+}

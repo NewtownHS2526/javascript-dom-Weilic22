@@ -4,3 +4,7 @@
 //     return a + b;
 // }
 
+function add(m, x) {
+    return m + x;
+}
+console.log(add(9 , 5));

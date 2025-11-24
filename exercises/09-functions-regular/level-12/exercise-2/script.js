@@ -4,3 +4,7 @@
 //     return a + b;
 // }
 
+function add(x, y, z) {
+    return x + y + z;
+}
+console.log(add(50, 40, 30));

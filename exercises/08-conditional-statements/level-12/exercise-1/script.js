@@ -5,3 +5,7 @@
 //     console.log("Adult");
 // }
 
+let age=9;
+if (age <18) {
+    console.log("Minor");
+}

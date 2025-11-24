@@ -5,4 +5,10 @@
 //         console.log("Can drive");
 //     }
 // }
-
+let age=22;
+let hasPermit =true;
+if (age >=21) {
+    if (hasPermit) {
+        console.log("Can drink");
+    }
+}

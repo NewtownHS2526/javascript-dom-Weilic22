@@ -4,3 +4,7 @@
 //     return "Hello!";
 // }
 
+function sayHello() {
+    return "Good to meet you!";
+}
+console.log(sayHello());

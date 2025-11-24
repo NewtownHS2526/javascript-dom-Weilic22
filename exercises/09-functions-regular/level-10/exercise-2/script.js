@@ -4,3 +4,7 @@
 //     return a + b;
 // }
 
+function add(a, c) {
+    return a + c;
+}
+console.log(add(17, 16));
