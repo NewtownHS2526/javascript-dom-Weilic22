@@ -1,3 +1,3 @@
-let initialized = "I have a value";
-let uninitialized;
-console.log(initialized, uninitialized);
+let value = "I have a value";
+let unvaleued;
+console.log(value, unvaleued);

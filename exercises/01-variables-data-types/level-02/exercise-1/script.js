@@ -3,5 +3,6 @@ let text = "What's up?";
 let num = 100;
 let bool = true;
 let undef = undefined;
-// TODO: Print each one
 console.log(text, num, bool, undef);
+// TODO: Print each one
+

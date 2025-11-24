@@ -1,6 +1,7 @@
 // TODO: Create const variable 'studentID' with a string
-const studentID = "785294283";
-// TODO: Create let variable 'grade' with a number
+const studentID = "jf93ks90";
 let grade = 99;
-// TODO: Print both
 console.log(studentID, grade);
+// TODO: Create let variable 'grade' with a number
+// TODO: Print both
+

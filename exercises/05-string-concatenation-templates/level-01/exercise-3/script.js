@@ -1,3 +1,7 @@
 // TODO: Concatenate a string with a number
+let name = "Liam";
+let age = 25;
+let info = name + " is " + age + " years old";
+console.log(info);
 // Example: name + " is " + age + " years old"
 

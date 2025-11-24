@@ -1,5 +1,5 @@
 // TODO: Perform division and modulus operations
-let x = 41;
+let x = 40;
 let y = 4;
 let quotient = x / y;
 let remainder = x % y;

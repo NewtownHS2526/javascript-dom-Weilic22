@@ -2,6 +2,7 @@
 let age = 9;
 let city = "Shanghai";
 let isStudent = true;
-// TODO: Print all three using console.log()
 console.log(age, city, isStudent)
+// TODO: Print all three using console.log()
+
 
